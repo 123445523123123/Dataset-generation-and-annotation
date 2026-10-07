@@ -1,12 +1,13 @@
-# The functions of each code structure are as follows:
+#各个代码结构的作用如下：
 
-zimage_gen.py:Used to construct prompt functions and generate dataset images.
+zimage_gen.py：用于构造提示函数并生成数据集图像。
 
-llmdet_label.py:For custom datasets, it includes defect categories and the automation of dataset annotation as well as the visualization display.
+llmdet_label.py：对于自定义数据集，它包括缺陷类别和数据集注释的自动化以及可视化显示。
 
-get_yolo_txt.py:Used to convert the VOC format annotation files of the dataset into txt format.
+get_yolo_txt.py：用于将数据集的VOC格式标注文件转换为txt格式。
 
-Summary.py:Used for counting the quantity of the dataset and the number of defect annotations.
+Summary.py：用于统计数据集的数量和缺陷标注的数量。
 
-split_data.py:It is used to proportionally divide the dataset into training set, validation set and test set.
+split_data.py：用于将数据集按比例划分为训练集、验证集和测试集。
+requirements.txt：环境版本配置文件
 
