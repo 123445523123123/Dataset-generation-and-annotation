@@ -12,3 +12,5 @@ split_data.py：Used to divide the dataset into training set, validation set and
 
 requirements.txt：Environment version configuration file
 
+Data Split List: The RodaDW26 train/validation/test manifests.
+
