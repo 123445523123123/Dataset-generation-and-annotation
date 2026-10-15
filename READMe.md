@@ -1,6 +1,6 @@
 #The functions of each code structure are as follows:
 
-zimage_gen.py：Used to construct the prompt function and generate the dataset images.
+Z-Image-gen.py：Used to construct the prompt function and generate the dataset images.
 
 llmdet_label.py：For the custom dataset, it includes the automation of defect categories and annotations as well as the visualization display of the dataset.
 
